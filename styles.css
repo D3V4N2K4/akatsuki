@@ -7,66 +7,53 @@ h1 {
   color: #DBEDF3;
   font-family: "Arvo", cursive;
   text-shadow: 3px 0 #DA0463;
-
 }
 footer {
   color: #DBEDF3;
   font-family: sans-serif;
 }
-
 .w {
 background-image: url(./images/hidan.jpg);
 background-size: contain;
 }
-
 .a {
 background-image: url(./images/deidara.jpg);
 background-size: contain;
 }
-
 .s {
 background-image: url(./images/itachi.jpg);
 background-size: contain;
 }
-
 .d {
 background-image: url(./images/kakuzu.jpg);
 background-size: contain;
 }
-
 .j {
 background-image: url(./images/madara.jpg);
 background-size: contain;
 }
-
 .k {
 background-image: url(./images/tobi.jpg);
 background-size: contain;
 }
-
 .l {
 background-image: url(./images/pain.jpeg);
 background-size: contain;
 }
-
 .set {
   margin: 10% auto;
 }
-
 .game-over {
   background-color: red;
   opacity: 0.8;
 }
-
 .pressed {
   box-shadow: 0 3px 4px 0 #DBEDF3;
   opacity: 0.5;
 }
-
 .red {
   color: red;
 }
-
 .drum {
   outline: none;
   border: 10px solid #404B69;
